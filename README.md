@@ -12,4 +12,4 @@ A 2D Idle Clicker Unity Tutorial By TimmyJTech! Follow Development & Learn To Ma
 - Episode 9: Game Tutorial w/ Cameras & PlayerPrefs; Simple Camera Follow Tutorial
 - Episode 10: Save Data When Game Closes; Save Money So Player Doesnt Restart Each Time
 
-![bsbanner](https://github.com/TimmyJTech/BarnyardSmash/assets/96853417/ca3039dc-fc90-42c3-b62c-59e12de86f3c)
+![bsbanner](https://github.com/GrayShadoz/BarnyardSmash/assets/71303769/1af301b9-a558-432a-a199-3434a6e97c0b)
