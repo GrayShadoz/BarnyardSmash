@@ -1,6 +1,8 @@
 # BarnyardSmash
 A 2D Idle Clicker Unity Tutorial By TimmyJTech! Follow Development & Learn To Make This Game!
 
+https://www.youtube.com/watch?v=IeOPUnhjvQc&list=PL9oVcIow4uiU0Y9wxLFKiBu1kd7QGXi0K&ab_channel=TimmyJTech
+
 - Episode 1: Creating The Canvas
 - Episode 2: Objectives To Click; Created The Animal Script
 - Episode 3: Managing Your Game; Created GameManager Script
